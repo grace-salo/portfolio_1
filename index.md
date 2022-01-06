@@ -5,6 +5,8 @@
 [Shiny App](https://gracesalo.shinyapps.io/bechdel_test/)
 
 
+[about page](about.md)
+
 [look at later](bechdel_test/app.R)
 
 
