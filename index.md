@@ -2,7 +2,7 @@
 
 
 ### Bechdel Test RShiny App
-[Shiny App (new tab)](https://gracesalo.shinyapps.io/bechdel_test/)
+[Shiny App](https://gracesalo.shinyapps.io/bechdel_test/)
 
 
-[Shiny App](bechdel_test/app.R)
+[look at later](bechdel_test/app.R)
