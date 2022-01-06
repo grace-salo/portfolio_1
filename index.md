@@ -8,6 +8,9 @@
 [Shiny App](https://gracesalo.shinyapps.io/bechdel_test/)
 
 ### LAS Projects:
+#### Trust Guide Blog Post (posted to highside!)
+[Blog Post pdf](Grace_Salo_Blog_Post.pdf)
+
 #### Trust Guide Poster
 [Poster](https://bit.ly/trustguide)
 
