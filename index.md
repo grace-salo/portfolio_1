@@ -9,7 +9,7 @@
 
 ### LAS Projects:
 #### Trust Guide Poster
-[Poster](bit.ly/trustguide)
+[Poster](https://bit.ly/trustguide)
 
 #### Trust Guide Presentation Video
 [Video](Grace_Salo_Trust_Project.mp4)
