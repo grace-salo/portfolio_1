@@ -1,11 +1,19 @@
-## projects below
+### About Page (with Resume)
+[About Page](about.md)
 
+
+## projects below
 
 ### Bechdel Test RShiny App
 [Shiny App](https://gracesalo.shinyapps.io/bechdel_test/)
 
+### LAS Projects:
+#### Trust Guide Poster
+[Poster](bit.ly/trustguide)
 
-[About Page](about.md)
+#### Trust Guide Presentation Video
+[Video](Grace_Salo_Trust_Project.mp4)
+
 
 [look at later](bechdel_test/app.R)
 
