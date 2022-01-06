@@ -1,7 +1,6 @@
 remote_theme: pages-themes/slate@v0.2.0
-name: Grace Salo's Projects (edit x2)
+title: Grace Salo's Projects (edit x2)
 description: Check out here the projects I've created so far, and reach out to gracesalo01@gmail.com with any questions or comments!
-[resume](/Salo_Grace_Resume.pdf)
 navbar:
   title: ~~ Title ~~
   left:
