@@ -1,7 +1,6 @@
 remote_theme: pages-themes/slate@v0.2.0
-#>title: Grace Salo's Projects (title)
 #>name: Grace Salo's Projects (name)
-title: Grace Salo
+title: Grace Salo's Project
 description: Check out here the projects I've created so far, and please reach out with any questions or comments!
 output_dir: _config
 markdown: GFM
