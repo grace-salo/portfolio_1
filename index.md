@@ -2,7 +2,7 @@
 
 <details open>
 <summary><b>About Me</b></summary>
-<br> </br>
+<br>
 Welcome! Click on the "About" page below to learn more about me and to view my resume, or alternatively download it at the link below. 
 
 + [About Page](about.md)
