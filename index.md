@@ -18,6 +18,7 @@ Welcome! Click on the "About" page below to learn more about me and to view my r
 - next shiny app #2
 </details>
 
+
 <details>
 <summary><b>Laboratory for Analytic Sciences (LAS) Projects</b></summary>
 <br>
@@ -34,10 +35,11 @@ For my final intern presentation, I chose to share a synopsis of my trust-relate
 - [Trust Guide Presentation Video](Grace_Salo_Trust_Project.mp4)
 </details>
  
+ 
 <details>
 <summary><b>Heading #4</b></summary>
 <br> 
-
+- [page one](page1.md)
 </details>
 
 
@@ -45,7 +47,7 @@ For my final intern presentation, I chose to share a synopsis of my trust-relate
 
 
 
-### break
+## trash below!!
 ### About Page (with Resume)
 [About Page](about.md)
 
