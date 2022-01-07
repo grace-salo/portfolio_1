@@ -1,9 +1,9 @@
-<h3>Contents</h3>
+<h2>Contents</h2>
+
 
 <details open>
 <summary><b>About Me</b></summary>
 <p>
-
 Welcome! Click on the "About" page below to learn more about me, or use the provided contact information to reach out with questions or comments.
 
 + [About Page](about.md)
