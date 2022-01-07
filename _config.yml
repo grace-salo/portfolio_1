@@ -1,29 +1,29 @@
 remote_theme: pages-themes/slate@v0.2.0
-title: Grace Salo's Projects (title)
+#>title: Grace Salo's Projects (title)
 name: Grace Salo's Projects (name)
 description: Check out here the projects I've created so far, and reach out to gracesalo01@gmail.com with any questions or comments!
+name: my-website
+output_dir: _site
+include: page1.md
+exclude:
+- docs.txt
+- '*.csv'
 navbar:
-  title: "~~ Title ~~"
+  title: My Website
   left:
-  - text: Topics:
-    menu:
-      - text: youtube link
-        href: https://www.youtube.com/watch?v=dQw4w9WgXcQ
-      - text: Resume
-        href: Salo_Grace_Resume.pdf
-  right:
-  - text: About
+  - text: Home
+    href: index.md
+  - text: '---------'
     href: about.md
 output:
   html_document:
-    theme: spacelab
-    highlight: haddock
-    css: html-md-01.css
-    fig_caption: no
-    number_sections: yes
-    toc: yes
-    toc_float: no
-    collapsed: no
-    lib_dir: site_libs
-    self_contained: no
-output_dir: docs
+    toc: true
+    highlight: textmate
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
+  
