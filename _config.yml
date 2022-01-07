@@ -2,8 +2,9 @@ remote_theme: pages-themes/slate@v0.2.0
 #>title: Grace Salo's Projects (title)
 name: Grace Salo's Projects (name)
 description: Check out here the projects I've created so far, and reach out to gracesalo01@gmail.com with any questions or comments!
-name: my-website
-output_dir: _site
+output_dir: _config
+markdown: GFM
+#>url: "http://grace-salo.github.io"
 include: page1.md
 exclude:
 - docs.txt
