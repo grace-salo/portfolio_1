@@ -1,6 +1,6 @@
 <h2>Contents</h2>
 
-<details>
+<details open>
 <summary><b>About Me</b></summary>
 <br> 
 Welcome! Click on the "About" page below to learn more about me and to view my resume, or alternatively download it at the link below. 
@@ -39,6 +39,7 @@ For my final intern presentation, I chose to share a synopsis of my trust-relate
 <details>
 <summary><b>Heading #4</b></summary>
 <br> 
+
 - [page one](page1.md)
 </details>
 
@@ -46,6 +47,7 @@ For my final intern presentation, I chose to share a synopsis of my trust-relate
 
 
 
+<br></br>
 
 ## trash below!!
 ### About Page (with Resume)
