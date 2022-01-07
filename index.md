@@ -1,4 +1,4 @@
-<h2>Contents (edits)</h2>
+<h2>Contents (edit x2)</h2>
 
 <details open>
 <summary><b>About Me</b></summary>
@@ -9,13 +9,13 @@ Welcome! Click on the "About" page below to learn more about me and to view my r
 + [Resume](Salo_Grace_Resume.pdf)
 </details>
 
-<details>
-<summary><b>Shiny Apps</b></summary>
-<br>
 
+<details><summary><b>Shiny Apps</b></summary>
+<p>
 - [Bechdel Test RShiny App](https://gracesalo.shinyapps.io/bechdel_test/)
 - next shiny app #1
 - next shiny app #2
+</p>
 </details>
 
 
