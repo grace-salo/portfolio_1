@@ -1,4 +1,4 @@
-<h2>Contents</h2>
+<h2>Contents (edit)</h2>
 
 <details open>
 <summary><b>About Me</b></summary>
