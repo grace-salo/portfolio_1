@@ -12,9 +12,9 @@ Welcome! Click on the "About" page below to learn more about me and to view my r
 
 <details><summary><b>Shiny Apps</b></summary>
 <p>
-- [Bechdel Test RShiny App](https://gracesalo.shinyapps.io/bechdel_test/)
-- next shiny app #1
-- next shiny app #2
++ [Bechdel Test RShiny App](https://gracesalo.shinyapps.io/bechdel_test/)
++ next shiny app #1
++ next shiny app #2
 </p>
 </details>
 
@@ -26,13 +26,13 @@ The Laboratory for Analytic Sciences is a research collaboration between the Nat
 <br></br>
 
 After I wrote this blog post, it was posted to the "highside", a colloquial name for the restricted-access webpage for NSA Analysts to securely share information within the NSA intelligence community.
-- [Trust Guide Blog Post](Grace_Salo_Blog_Post.pdf)
++ [Trust Guide Blog Post](Grace_Salo_Blog_Post.pdf)
 
 A non-research accessible poster summarizing my research into the dynamic of trust within NSA Analyst Reporting.
-- [Trust Guide Poster](https://bit.ly/trustguide)
++ [Trust Guide Poster](https://bit.ly/trustguide)
 
 For my final intern presentation, I chose to share a synopsis of my trust-related research.  
-- [Trust Guide Presentation Video](Grace_Salo_Trust_Project.mp4)
++ [Trust Guide Presentation Video](Grace_Salo_Trust_Project.mp4)
 </details>
  
  
@@ -41,23 +41,21 @@ For my final intern presentation, I chose to share a synopsis of my trust-relate
 <br> 
 
 - [page one](page1.md)
+</details>
+
+
+
+
+
+
+<br>/<br>
+
+## trash below!!
+
  + markdown list 1
     + nested 1
     + nested 2
  + markdown list 2
-</details>
-
-
-<details><summary><b>Heading #5</b></summary>
-
-
-[About Page](about.md)
-
- 
- 
-</details>
-
-
 
 | foo | bar |
 | --- | --- |
@@ -65,11 +63,6 @@ For my final intern presentation, I chose to share a synopsis of my trust-relate
 | bee | boo |
 
 
-
-
-<br></br>
-
-## trash below!!
 ### About Page (with Resume)
 [About Page](about.md)
 
