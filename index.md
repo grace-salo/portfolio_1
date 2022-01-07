@@ -12,7 +12,8 @@ Welcome! Click on the "About" page below to learn more about me, or use the prov
 </details>
 
 
-<details><summary><b>Shiny Apps</b></summary>
+<details>
+<summary><b>Shiny Apps</b></summary>
 <p>
 + [Bechdel Test RShiny App](https://gracesalo.shinyapps.io/bechdel_test/)
 + next shiny app #1
@@ -44,41 +45,3 @@ For my final intern presentation, I chose to share a synopsis of my trust-relate
 
 - [page one](page1.md)
 </details>
-
-
-
-
-
-
-<br>/<br>
-
-## trash below!!
-
- + markdown list 1
-    + nested 1
-    + nested 2
- + markdown list 2
-
-| foo | bar |
-| --- | --- |
-| baz | bim |
-| bee | boo |
-
-
-### About Page (with Resume)
-[About Page](about.md)
-
-### Bechdel Test RShiny App
-[Shiny App](https://gracesalo.shinyapps.io/bechdel_test/)
-
-### LAS Projects:
-#### Trust Guide Blog Post (posted to highside!)
-[Blog Post pdf](Grace_Salo_Blog_Post.pdf)
-
-#### Trust Guide Poster
-[Poster](https://bit.ly/trustguide)
-
-#### Trust Guide Presentation Video
-[Video](Grace_Salo_Trust_Project.mp4)
-
-[look at later](bechdel_test/app.R)
