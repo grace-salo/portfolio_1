@@ -1,12 +1,14 @@
-<h2>Contents (edits)</h2>
+<h2>Contents</h2>
 
 <details open>
-<summary><b>About Me</b></summary>
+<summary>**About Me**</summary>
 <br>
-Welcome! Click on the "About" page below to learn more about me and to view my resume, or alternatively download it at the link below. 
+Welcome! Click on the "About" page below to learn more about me, or use the provided contact information to reach out. 
 
 + [About Page](about.md)
-+ [Resume](Salo_Grace_Resume.pdf)
++ Contact:
+  + Email: gracesalo01@gmail.com
+  + Phone: 980-406-1779
 </details>
 
 
