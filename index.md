@@ -1,8 +1,8 @@
-<h2>Contents (edit x2)</h2>
+<h2>Contents (edits)</h2>
 
 <details open>
 <summary><b>About Me</b></summary>
-<br> 
+<br> </br>
 Welcome! Click on the "About" page below to learn more about me and to view my resume, or alternatively download it at the link below. 
 
 + [About Page](about.md)
@@ -45,6 +45,16 @@ For my final intern presentation, I chose to share a synopsis of my trust-relate
     + nested 1
     + nested 2
  + markdown list 2
+</details>
+
+
+<details><summary><b>Heading #5</b></summary>
+
+
+[About Page](about.md)
+
+ 
+ 
 </details>
 
 
